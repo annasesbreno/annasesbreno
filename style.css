@@ -6,6 +6,9 @@ body {
     text-align: center;
 }
 
+a:hover {
+    background-color: #b2b4b7;
+}
 
 h1 {
     font-size: 3em;
